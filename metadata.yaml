@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6389'
     url: http://www.gutenberg.org/2009/agents/6389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15953#The-City-of-DelightA-Love-Drama-of-the-Siege-and-Fall-of-Jerusalem
 gutenberg_issued: '2005-05-31'
 gutenberg_type: Text
 identifiers:
